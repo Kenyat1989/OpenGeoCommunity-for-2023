@@ -3,13 +3,13 @@
 In preparation for the Global Refugee Forum (GRF) 2023, a collective declaration was submitted under the "OpenGeoCommunity for GRF2023." This group represents a collaboration among several organizations and communities with common values and goals. 
   
 The members of the "OpenGeoCommunity for GRF2023" include:
-- The UN Smart Maps Group of the UN Open GIS Initiative
-- The Watanave Hidenori Laboratory at the University of Tokyo
-- Eukarya Inc.
+- [The UN Smart Maps Group of the UN Open GIS Initiative](https://github.com/UNopenGIS/7)
+- [The Watanave Hidenori Laboratory at the University of Tokyo](https://labo.wtnv.jp/)
+- [Eukarya Inc.](https://eukarya.io/)
 - FOSS4G 2025 Japan Bid Committee
-- Welcome Japan
+- [Welcome Japan](https://welcomejpn.org/)
   
-The pledge submitted by this group consists of five fundamental commitments. The Seoul Declaration by FOSS4G Asia 2023 inspires these commitments. They emphasize the importance of sharing reliable geospatial information to support sustainable development. Each group member is dedicated to addressing refugee challenges, guided by the shared value of leveraging geospatial data and technologies for humanitarian and developmental purposes. This collaborative effort underlines the group's commitment to contributing meaningful solutions to refugees' worldwide challenges, utilizing their expertise in geospatial information and technology.
+The pledge submitted by this group consists of five fundamental commitments. [The Seoul Declaration by FOSS4G Asia 2023](./20231201_Seoul_Declaration_on_FOSS4G_Asia_eng_only_final.pdf) inspires these commitments. They emphasize the importance of sharing reliable geospatial information to support sustainable development. Each group member is dedicated to addressing refugee challenges, guided by the shared value of leveraging geospatial data and technologies for humanitarian and developmental purposes. This collaborative effort underlines the group's commitment to contributing meaningful solutions to refugees' worldwide challenges, utilizing their expertise in geospatial information and technology.
 
 ## What is GRF2023 Pledge?
 The Global Refugee Forum (GRF) is an initiative under the UNHCR, focusing on enhancing global cooperation and shared responsibility for refugee situations. It involves periodic meetings where stakeholders, including governments and organizations, make voluntary commitments, known as pledges. These pledges are diverse and range from financial aid to policy changes, aimed at improving the lives of refugees and host communities. They are expected to be specific, measurable, and impactful. The GRF 2023 anticipates increased participation and pledges, with a focus on implementing previous commitments, addressing new challenges, and promoting global solidarity in refugee support.
